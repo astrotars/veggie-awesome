@@ -1,0 +1,159 @@
+@font-face {
+	font-family: 'Veggie';
+	src: url('fonts/Veggie.eot');
+	src: local('☺'), url('fonts/Veggie.woff') format('woff'), url('fonts/Veggie.ttf') format('truetype'), url('fonts/Veggie.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.veg {
+    display: inline-block;
+    font: normal normal normal 14px/1 'Veggie';
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-style: normal;
+}
+.veg-2x {
+    font-size: 2em;
+}
+.veg-3x {
+    font-size: 3em;
+}
+.veg-4x {
+    font-size: 4em;
+}
+.veg-5x {
+    font-size: 5em;
+}
+
+.veg.veg-artichoke:before {
+    content: "\E000";
+}
+.veg.veg-bean:before {
+    content: "\E001";
+}
+.veg.veg-beet:before {
+    content: "\E002";
+}
+.veg.veg-broccoli:before {
+    content: "\E003";
+}
+.veg.veg-brusslesprout:before {
+    content: "\E004";
+}
+.veg.veg-cabbage:before {
+    content: "\E006";
+}
+.veg.veg-carrot:before {
+    content: "\E005";
+}
+.veg.veg-cauliflower:before {
+    content: "\E007";
+}
+.veg.veg-celery:before {
+    content: "\E010";
+}
+.veg.veg-chard:before {
+    content: "\E008";
+}
+.veg.veg-collards:before {
+    content: "\E012";
+}
+.veg.veg-corn:before {
+    content: "\E011";
+}
+.veg.veg-cucumber:before {
+    content: "\E013";
+}
+.veg.veg-eggplant:before {
+    content: "\E014";
+}
+.veg.veg-fennel:before {
+    content: "\E015";
+}
+.veg.veg-garlic:before {
+    content: "\E016";
+}
+.veg.veg-greens-asian:before {
+    content: "\E017";
+}
+.veg.veg-greens-micro:before {
+    content: "\E020";
+}
+.veg.veg-greens-mustard:before {
+    content: "\E019";
+}
+.veg.veg-greens-salad-mix:before {
+    content: "\E022";
+}
+.veg.veg-greens-specialty:before {
+    content: "\E021";
+}
+.veg.veg-kale:before {
+    content: "\E023";
+}
+.veg.veg-kohlrabi:before {
+    content: "\E024";
+}
+.veg.veg-leeks:before {
+    content: "\E025";
+}
+.veg.veg-lettuce:before {
+    content: "\E026";
+}
+.veg.veg-melons:before {
+    content: "\E027";
+}
+.veg.veg-okra:before {
+    content: "\E028";
+}
+.veg.veg-onion:before {
+    content: "\E029";
+}
+.veg.veg-peas:before {
+    content: "\E030";
+}
+.veg.veg-pepper:before {
+    content: "\E031";
+}
+.veg.veg-potato:before {
+    content: "\E032";
+}
+.veg.veg-pumpkin:before {
+    content: "\E033";
+}
+.veg.veg-radicchio:before {
+    content: "\E034";
+}
+.veg.veg-radish:before {
+    content: "\E035";
+}
+.veg.veg-shooting-sprouts:before {
+    content: "\E037";
+}
+.veg.veg-soybeans:before {
+    content: "\E038";
+}
+.veg.veg-spinach:before {
+    content: "\E039";
+}
+.veg.veg-squash-summer:before {
+    content: "\E040";
+}
+.veg.veg-squash-winter:before {
+    content: "\E041";
+}
+.veg.veg-tomatos:before {
+    content: "\E042";
+}
+.veg.veg-turnip-roots:before {
+    content: "\E036";
+}
+.veg.veg-watermelons:before {
+    content: "\E043";
+}
+.veg.veg-zuchinni:before {
+    content: "\E044";
+}
